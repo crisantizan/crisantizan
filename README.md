@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crisantizan" alt="crisantizan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/crisantizan_" target="blank"><img src="https://img.shields.io/twitter/follow/crisantizan_?logo=twitter&style=for-the-badge" alt="crisantizan_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/crisantizan_" target="blank"><img src="https://img.shields.io/twitter/follow/crisantizan?logo=twitter&style=for-the-badge" alt="crisantizan" /></a> </p>
 
 - 🌱 I’m currently learning **Python, MongoDB and Graphql**
 
 - 👨‍💻 All of my projects are available at [cristiansantiz.netlify.app](cristiansantiz.netlify.app)
 
-- 💬 Ask me about **Vue 💪**
+- 💬 Ask me about **Vue**, **Angular**, **Nodejs** 💪
 
-- 📫 How to reach me **crisantizan@gmail.com**
+- 📫 How to reach me **santiz.dev@gmail.com**
 
 - ⚡ Fun fact **Run 🏃‍♂️**
 
